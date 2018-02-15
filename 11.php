@@ -1,5 +1,6 @@
 <?php
-$day = 7;
+$day = rand(1,7);
+echo "$day <br/>";
 switch ($day) {
     case 1:
         echo " Это рабочий день";
