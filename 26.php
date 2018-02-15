@@ -6,8 +6,8 @@
  * Time: 20:49
  */
 //first mode
-define('DAYS_COUNT','7');
-define ('MONTH_COUNT','12');
+define('DAYS_COUNT',7);
+define ('MONTH_COUNT',12);
 
 //second mode
 const DAYS_COUNT = 7;
