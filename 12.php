@@ -5,7 +5,8 @@
  * Date: 12.02.18
  * Time: 0:23
  */
-$day = 17;
+$day = rand(1,10);
+echo "$day <br>";
 switch ($day) {
     case 1:
         echo " Это рабочий день";
